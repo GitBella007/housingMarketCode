@@ -1,2 +1,5 @@
 # housingMarketCode
 A house price model has build in this code.
+In this project, I previously planned to calculate the price per square feet of houses in a particular area in a city to have a better understanding of the local house market. However, the method of calculating the price per square feet was too easy to implement so that I didn’t have to use Python as a tool. At the same time, I learned multiple linear regression on my data mining course, which gave me a new inspiration. I decided to change my topic to use a formula to predict the house price in a new dataset, which was derived from multiple linear regression in the original dataset. 
+I will use Pandas module to read and add new columns. I will use the function and loop to calculate the house price in the new dataset. I also plan to divide the predicted houses price into high, medium and low price categories to have a better glance into houses price situations. 
+In terms of real estate companies, this project will be beneficial because not only can it help understand the local real estate market, it can also predict house prices based on easy-to-accessed data.
